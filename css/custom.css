@@ -1,0 +1,16 @@
+/*html, body {
+  background-color: #ddd;
+}
+*/
+
+.robot {
+  position: absolute;
+  top: 10%;
+  left: 35%;
+}
+
+.play {
+  position: relative;
+  margin-left: 30%;
+  margin-top: 10%;
+}
